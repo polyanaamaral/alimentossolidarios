@@ -1,2 +1,2 @@
 # alimentossolidarios
-Projeto frontend Polyana e Joel
+Projeto Hackathon do Reprograme-se - Ifes feito por mim e Joel.
